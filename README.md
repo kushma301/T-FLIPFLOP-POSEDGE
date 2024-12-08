@@ -51,11 +51,10 @@ Developed by: Kushma.S RegisterNumber: 24013666
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![exp9 diagram](https://github.com/user-attachments/assets/d41aaae2-1af7-4d0f-930a-427de6cc9b41)
+![exp9 diagram](https://github.com/user-attachments/assets/121ad85e-38b2-467c-84f4-a753c8a3e3b2)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![exp9 timing diagram](https://github.com/user-attachments/assets/3b3279f4-2808-4952-9f7d-35bb9725a756)
-
+![exp9 timing diagram](https://github.com/user-attachments/assets/db2018e9-7d77-46b2-847f-4a610260012d)
 
 **RESULTS**
